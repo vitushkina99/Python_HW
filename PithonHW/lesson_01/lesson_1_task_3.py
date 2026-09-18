@@ -1,0 +1,5 @@
+first_name = ()
+last_name = ()
+f = input(first_name)
+las = input(last_name)
+print("Вас зовут:", las, f)
