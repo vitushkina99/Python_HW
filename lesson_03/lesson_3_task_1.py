@@ -1,4 +1,4 @@
-from user import User
+from lesson_03.user import User
 my_user = User("Ксения", "Ромазанова")
 print(my_user.Print_Name())
 print(my_user.Print_First_Name())

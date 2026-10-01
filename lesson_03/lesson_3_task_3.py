@@ -1,5 +1,5 @@
-from Pochta import Address
-from Adres import Mailing
+from lesson_03.Pochta import Address
+from lesson_03.Adres import Mailing
 
 to_address = Address('357348', 'Острогорка', 'пер.Школьный', 'д 71', '3')
 from_address = Address('303823', 'Норовка', 'улица Кирова', 'д. 92', '6')
