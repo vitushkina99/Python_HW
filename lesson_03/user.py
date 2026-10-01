@@ -3,11 +3,11 @@ class User:
         self.first_name = first_name
         self.last_name = last_name
 
-    def Print_Name(self):
+    def print_name(self):
         return self.first_name
 
-    def Print_First_Name(self):
+    def print_first_name(self):
         return self.last_name
 
-    def Print_First_Last_Name(self):
+    def print_first_last_name(self):
         return f"{self.first_name} {self.last_name}"

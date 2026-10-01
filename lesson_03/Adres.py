@@ -1,4 +1,4 @@
-from lesson_03.Pochta import Address
+from Pochta import Address
 
 
 class Mailing:
